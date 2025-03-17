@@ -1,5 +1,9 @@
 # Health Insurance Management System
 
+## Contributors
+- *Divyank Harjani - 055010*  
+- *Priyadarshani Dash - 055037*
+   
 ## Overview
 This project demonstrates the design and implementation of a relational database for a health insurance management system. The database structure is created using a **top-down approach**, focusing on key aspects of the system such as:
 - Customer management
@@ -65,10 +69,6 @@ The system includes various user roles with different levels of access:
 | **Auditor** | Read-only access to all tables for audit purposes |
 | **Customer** | Access to their own records (if implementing a customer portal) |
 
-Each role has specific permissions designed to ensure **data security** and maintain the **principle of least privilege**.
-
-## Contributors
-- *Divyank Harjani - 055010*  
-- *Priyadarshani Dash - 055037*  
+Each role has specific permissions designed to ensure **data security** and maintain the **principle of least privilege**.  
 
 ---
