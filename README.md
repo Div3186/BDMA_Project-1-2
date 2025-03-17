@@ -2,7 +2,7 @@
 
 ## Contributors
 - *Divyank Harjani - 055010*  
-- *Priyadarshani Dash - 055037*
+- *Priyadarshani Dash - 055033*
    
 ## Overview
 This project demonstrates the design and implementation of a relational database for a health insurance management system. The database structure is created using a **top-down approach**, focusing on key aspects of the system such as:
